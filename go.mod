@@ -1,4 +1,4 @@
-module github.com/blutspende/libs/db
+module github.com/blutspende/libs-db
 
 go 1.26.6
 

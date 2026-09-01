@@ -2,7 +2,7 @@
 Contains the `Postgres` class to handle Postgres connection and some utility functions for SQL specific nullable types.
 
 ###### Install
-`go get github.com/blutspende/libs/db`
+`go get github.com/blutspende/libs-db`
 
 ## Postgres
 `Postgres` is a class for handling Postgres connections. It provides methods for connecting, disconnecting, and obtaining the underlying raw SQL connection `*sqlx.DB`.
